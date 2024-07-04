@@ -1,0 +1,3 @@
+[submodule "netcaster"]
+	path = netcaster
+	url = https://github.com/ryanjshaw/netcaster.git
